@@ -1,0 +1,8 @@
+.info {
+ margin: 0 auto;
+ box-shadow: 5px 5px 5px 5px rgb(200 200 200 / 60%) inset;
+ width: fit-content;
+ border-radius: 5px;
+ color: darkgray;
+ font-weight: bold;
+}

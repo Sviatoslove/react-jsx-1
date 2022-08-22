@@ -1,0 +1,12 @@
+.bio {
+ font-size: 50px;
+ line-height: 60px;
+ box-shadow: 32px 15px 10px 2px rgb(200 255 255);
+ max-width: 400px;
+ width: 100%;
+ margin: 0 auto 30px;
+ border: 2px solid silver;
+ border-radius: 10px;
+ background-color: #e8e7cf;
+ color: aliceblue;
+}
